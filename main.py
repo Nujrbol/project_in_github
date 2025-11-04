@@ -1,6 +1,3 @@
-num = 'hello'
-name = "nurbol"
-
 """Настройки git на пк (терминал)"""
 # git config --global user.name <имя>("Nurbol")
 # git config --global user.email <почта>(nurbolkachkynbekov47@gmail.com)
